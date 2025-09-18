@@ -1,2 +1,1 @@
-# cors-test
-cors-test
+
